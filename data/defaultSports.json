@@ -1,0 +1,76 @@
+[
+    {
+       "categoryName":"football",
+       "subCategories":[
+          {
+             "subCategoryName":"Premier League",
+             "subCategoryImage":"https://streamsportal.com/images/Premier-League.png",
+             "games":[
+                
+            ]
+          },
+          {
+             "subCategoryName":"La Liga",
+             "subCategoryImage":"https://streamsportal.com/images/laligahd.png",
+             "games":[
+                
+             ]
+          },
+          {
+             "subCategoryName":"England - Championship",
+             "subCategoryImage":"data:image/png;base64,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",
+             "games":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "categoryName":"cricket",
+       "subCategories":[
+          {
+             "subCategoryName":"Cricket",
+             "subCategoryImage":"https://pngimg.com/uploads/cricket/cricket_PNG41.png",
+             "games":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "categoryName":"F1",
+       "subCategories":[
+          {
+             "subCategoryName":"F1",
+             "subCategoryImage":"https://i.ndtvimg.com/i/2017-11/f1-logo_827x510_81511609021.jpg",
+             "games":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "categoryName":"tennis",
+       "subCategories":[
+          {
+             "subCategoryName":"tennis",
+             "subCategoryImage":"https://images.vexels.com/media/users/3/132449/isolated/preview/62b0bbd53e9a14638f0cf56364c3ee98-tennis-logo-by-vexels.png",
+             "games":[
+                
+             ]
+          }
+       ]
+    },
+    {
+       "categoryName":"NBA",
+       "subCategories":[
+          {
+             "subCategoryName":"NBA",
+             "subCategoryImage":"http://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg",
+             "games":[
+                
+             ]
+          }
+       ]
+    }
+ ]

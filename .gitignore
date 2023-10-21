@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/frontend/node_modules
+
+# compiled output
+/frontend/dist
+/frontend/tmp
+/frontend/src/assets/img/icons
+/public/client/demo
+
+# IDEs and editors
+/.idea
+/.env
+/tmp
+

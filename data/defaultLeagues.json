@@ -1,0 +1,126 @@
+[
+    {
+       "leagueName":"Premier League",
+       "leagueImage":"https://streamsportal.com/images/Premier-League.png",
+       "fixtures": []
+    },
+    {
+       "leagueName":"UEFA Champions League",
+       "leagueImage":"https://streamsportal.com/images/UEFA-Champions-League.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Bundesliga",
+       "leagueImage":"https://streamsportal.com/images/bundesligahd.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"UEFA Europa League",
+       "leagueImage":"https://streamsportal.com/images/UEFA-Europa-League.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Serie A",
+       "leagueImage":"https://streamsportal.com/images/serie.png",
+             "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Ligue 1",
+       "leagueImage":"https://streamsportal.com/images/league1.png",
+             "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"La Liga",
+       "leagueImage":"https://streamsportal.com/images/laligahd.png",
+             "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"FIFA World Cup 2022",
+       "leagueImage":"https://streamsportal.com/images/FIFA%20World%20Cup%202022%20live%20streaming.jpg",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Dutch Eredivisie",
+       "leagueImage":"https://totalsportek.pro/images/eredivisie.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"PRIMEIRA LIGA",
+       "leagueImage":"1",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"UEFA Europa Conference League",
+       "leagueImage":"https://th.bing.com/th/id/R.688a3bd786b8a35a19be979861798a47?rik=yJL%2fCHXtlxikLQ&riu=http%3a%2f%2fwww.logo-designer.co%2fwp-content%2fuploads%2f2020%2f12%2f2020-new-uefa-europa-conference-league-logo-design-2-986x1024.png&ehk=jh4tRnRUuus6B0fkT%2fgvo76CjvfYg5S%2fhimqtpopYeo%3d&risl=&pid=ImgRaw&r=0",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Copa Libertadores",
+       "leagueImage":"data:image/jpeg;base64,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",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"FA CUP",
+       "leagueImage":"https://streamsportal.com/images/facup.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"EFL Cup",
+       "leagueImage":"https://streamsportal.com/images/efl.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"UEFA Nations League",
+       "leagueImage":"https://upload.wikimedia.org/wikipedia/en/8/80/UEFA_Nations_League.svg",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"MLS",
+       "leagueImage":"https://upload.wikimedia.org/wikipedia/commons/7/76/MLS_crest_logo_RGB_gradient.svg",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Copa Del Rey (Spain)",
+       "leagueImage":"https://totalsportek.pro/images/copadel.png",
+       "fixtures":[
+          
+       ]
+    },
+    {
+       "leagueName":"Scottish Premiership",
+       "leagueImage":"https://totalsportek.pro/images/Scottish_Premiership.png",
+       "fixtures":[
+          
+       ]
+    }
+ ]
