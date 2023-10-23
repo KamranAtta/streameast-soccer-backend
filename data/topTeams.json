@@ -4,13 +4,6 @@
     "teamImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569655/teams/Manchester-United-Logo_fwdq43.webp",
     "fixtures": [
       {
-        "fixtureLink": "https://totalsportek.pro/game/sheffield-united-vs-manchester-united/14579",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "07:00 pm UTC",
-        "teamA": "Sheffield United ",
-        "teamB": " Manchester United"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/fulham-vs-manchester-united/14580",
         "fixtureDate": "2023-11-04",
         "fixtureTime": "03:00 pm UTC",
@@ -87,13 +80,6 @@
         "teamB": " Liverpool"
       },
       {
-        "fixtureLink": "https://totalsportek.pro/game/chelsea-vs-arsenal/14654",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "04:30 pm UTC",
-        "teamA": "Chelsea ",
-        "teamB": " Arsenal"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/arsenal-vs-sheffield-united/14662",
         "fixtureDate": "2023-10-28",
         "fixtureTime": "02:00 pm UTC",
@@ -156,13 +142,6 @@
         "teamB": " Chelsea"
       },
       {
-        "fixtureLink": "https://totalsportek.pro/game/chelsea-vs-arsenal/14654",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "04:30 pm UTC",
-        "teamA": "Chelsea ",
-        "teamB": " Arsenal"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/chelsea-vs-brentford/14655",
         "fixtureDate": "2023-10-28",
         "fixtureTime": "02:00 pm UTC",
@@ -209,13 +188,6 @@
         "fixtureTime": "03:00 pm UTC",
         "teamA": "Manchester City ",
         "teamB": " Liverpool"
-      },
-      {
-        "fixtureLink": "https://totalsportek.pro/game/liverpool-vs-everton/14622",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "11:30 am UTC",
-        "teamA": "Liverpool ",
-        "teamB": " Everton"
       },
       {
         "fixtureLink": "https://totalsportek.pro/game/liverpool-vs-nottingham-forest/14623",
@@ -278,13 +250,6 @@
         "fixtureTime": "03:00 pm UTC",
         "teamA": "Manchester City ",
         "teamB": " Liverpool"
-      },
-      {
-        "fixtureLink": "https://totalsportek.pro/game/manchester-city-vs-brighton-&-hove-albion/18091",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "02:00 pm UTC",
-        "teamA": "Manchester City ",
-        "teamB": " Brighton & Hove Albion"
       },
       {
         "fixtureLink": "https://totalsportek.pro/game/young-boys-vs-manchester-city/18319",
@@ -376,13 +341,6 @@
         "teamB": " Everton"
       },
       {
-        "fixtureLink": "https://totalsportek.pro/game/liverpool-vs-everton/14622",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "11:30 am UTC",
-        "teamA": "Liverpool ",
-        "teamB": " Everton"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/everton-vs-liverpool/14638",
         "fixtureDate": "2024-03-16",
         "fixtureTime": "03:00 pm UTC",
@@ -443,13 +401,6 @@
         "fixtureTime": "03:00 pm UTC",
         "teamA": "Arsenal ",
         "teamB": " Newcastle United"
-      },
-      {
-        "fixtureLink": "https://totalsportek.pro/game/newcastle-united-vs-crystal-palace/18092",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "02:00 pm UTC",
-        "teamA": "Newcastle United ",
-        "teamB": " Crystal Palace"
       },
       {
         "fixtureLink": "https://totalsportek.pro/game/newcastle-united-vs-borussia-dortmund/18317",
@@ -704,13 +655,6 @@
         "teamB": " Juventus"
       },
       {
-        "fixtureLink": "https://totalsportek.pro/game/torino-vs-internazionale/18099",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "04:00 pm UTC",
-        "teamA": "Torino ",
-        "teamB": " Internazionale"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/internazionale-vs-salzburg/18295",
         "fixtureDate": "2023-10-24",
         "fixtureTime": "04:45 pm UTC",
@@ -723,13 +667,6 @@
     "teamName": "PSG",
     "teamImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568744/teams/PSG-Logo_pqj5lq.webp",
     "fixtures": [
-      {
-        "fixtureLink": "https://totalsportek.pro/game/psg-vs-strasbourg/14811",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "03:00 pm UTC",
-        "teamA": "PSG ",
-        "teamB": " Strasbourg"
-      },
       {
         "fixtureLink": "https://totalsportek.pro/game/brest-vs-psg/14812",
         "fixtureDate": "2023-10-29",
@@ -791,13 +728,6 @@
     "teamImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568989/teams/Leicester-City-Logo_rywmf6.webp",
     "fixtures": [
       {
-        "fixtureLink": "https://totalsportek.pro/game/swansea-city-vs-leicester-city/18119",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "02:00 pm UTC",
-        "teamA": "Swansea City ",
-        "teamB": " Leicester City"
-      },
-      {
         "fixtureLink": "https://totalsportek.pro/game/leicester-city-vs-sunderland/18310",
         "fixtureDate": "2023-10-24",
         "fixtureTime": "07:00 pm UTC",
@@ -830,13 +760,6 @@
         "fixtureTime": "01:00 pm UTC",
         "teamA": "Indianapolis Colts ",
         "teamB": " Cleveland Browns"
-      },
-      {
-        "fixtureLink": "https://totalsportek.pro/game/hellas-verona-vs-napoli/18098",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "01:00 pm UTC",
-        "teamA": "Hellas Verona ",
-        "teamB": " Napoli"
       },
       {
         "fixtureLink": "https://totalsportek.pro/game/indianapolis-colts-vs-new-orleans-saints/18198",
@@ -945,28 +868,12 @@
   {
     "teamName": "Olympique Marseille",
     "teamImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569377/teams/Olympique-Marseille-Logo_thgjhk.webp",
-    "fixtures": [
-      {
-        "fixtureLink": "https://totalsportek.pro/game/nice-vs-olympique-marseille/18107",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "07:00 pm UTC",
-        "teamA": "Nice ",
-        "teamB": " Olympique Marseille"
-      }
-    ]
+    "fixtures": []
   },
   {
     "teamName": "Bayer Leverkusen",
     "teamImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569451/teams/Bayer-Leverkusen-Logo_o7kn02.webp",
-    "fixtures": [
-      {
-        "fixtureLink": "https://totalsportek.pro/game/wolfsburg-vs-bayer-leverkusen/18103",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "01:30 pm UTC",
-        "teamA": "Wolfsburg ",
-        "teamB": " Bayer Leverkusen"
-      }
-    ]
+    "fixtures": []
   },
   {
     "teamName": "Sevilla",
@@ -985,13 +892,6 @@
         "fixtureTime": "12:00 am UTC",
         "teamA": "Sevilla ",
         "teamB": " Barcelona"
-      },
-      {
-        "fixtureLink": "https://totalsportek.pro/game/sevilla-vs-real-madrid/18096",
-        "fixtureDate": "2023-10-21",
-        "fixtureTime": "04:30 pm UTC",
-        "teamA": "Sevilla ",
-        "teamB": " Real Madrid"
       },
       {
         "fixtureLink": "https://totalsportek.pro/game/sevilla-vs-arsenal/18298",

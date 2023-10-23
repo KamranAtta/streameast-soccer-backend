@@ -4,6 +4,7 @@ var ProductObj = require("../controllers/Product.Controller");
 module.exports = (product) => {
 
   product.post("/getFixtures", ProductObj.getFixtures);
+  product.post("/getFixtureByName", ProductObj.getFixtureByName);
   product.post("/getTopGames", ProductObj.topGames);
   product.post("/getdbTeams", ProductObj.dbTeams);
   product.post("/getTopLeagues", ProductObj.topLeagues);

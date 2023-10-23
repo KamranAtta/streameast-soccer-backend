@@ -374,19 +374,50 @@ function validateJSONFile(filePath) {
   }
 }
 
-exports.getFixtures = async (req, res) => {
+exports.getFixtures = (req, res) => {
   try {
     // await scrapeSports();
-    const validJson = validateJSONFile('data/sports.json');
-    const filename = validJson ? 'data/sports.json': 'data/defaultSports.json';
-
-    fs.readFile('data/sports.json', 'utf8', (err, d) => {
+    const categoryName = req.body.categoryName ?? 'Streams today';
+    let response = {};
+    fs.readFile('data/sports.json', 'utf8',(err, d) => {
       if (err) throw err;
-      let data = JSON.parse(d);
-      // const index = data.findIndex(category => category.categoryName === "Tennis");
-      // const subCatIndex = data[index].subCategories.findIndex(subCategory => subCategory.subCategoryName === "tennis");
-      // data[index].subCategories = [data[index].subCategories[subCatIndex]];
-      res.status(200).json(data);
+      const data = JSON.parse(d);
+      for(let i = 0; i < data.length; i ++) {
+        const category = data[i];
+        if(category.categoryName.trim() === categoryName){
+          response = category;
+          break
+        }
+      };
+      res.status(200).json(response);
+    });
+  } catch (error) {
+    res.status(500).send("data not found");
+  }
+}
+
+exports.getFixtureByName = (req, res) => {
+  try {
+    const filter = req.body;
+
+    fs.readFile('data/sports.json', 'utf8',(err, d) => {
+      if (err) throw err;
+      const data = JSON.parse(d);
+      let response = {};
+      for (const category of data) {
+        for (const subCategory of category.subCategories) {
+          for (const game of subCategory.games) {
+            if (game.teamA === filter.teamA && game.teamB === filter.teamB) {
+              response.categoryName = category.categoryName;
+              response.subCategoryName = subCategory.subCategoryName;
+              response.subCategoryImage = subCategory.subCategoryImage;
+              response.game = game;
+              break;
+            }
+          }
+        }
+      }
+      res.status(200).json(response);
     });
   } catch (error) {
     res.status(500).send("data not found");
@@ -729,11 +760,9 @@ exports.addTeamLeague = async (req, res) => {
     const id = req.body.id;
     const name = req.body.name;
     const description = req.body.description;
-    console.log('Des', description);
     const file = req.files?.image;
     let imageURL = "";
     let public_id = req.body.publicId;
-    console.log('Fileeee', file);
 
     if(file){
       try {

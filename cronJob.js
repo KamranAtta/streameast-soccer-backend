@@ -33,7 +33,8 @@ const generateSitemap = () => {
 // Function to update the <lastmod> value of the home page URL with the current date
 const updateHomePageLastMod = () => {
   const currentDate = new Date().toISOString().slice(0, 10);
-  const sitemapPath  = process.env.NODE_ENV === 'local' ? 'frontend/src/sitemap.xml' : 'public/sitemap.xml';; 
+  // const sitemapPath  = process.env.NODE_ENV === 'local' ? '../../frontend/src/sitemap.xml' : 'public/sitemap.xml';; 
+  const sitemapPath  = 'public/sitemap.xml';; 
 
   fs.readFile(sitemapPath, 'utf8', (err, data) => {
     if (err) {
@@ -59,7 +60,7 @@ const updateHomePageLastMod = () => {
 };
 
 module.exports = () => {
-  const prodSportsInterval = '00 21,23,01,05 * * *';
+  const prodSportsInterval = '48 00,23,01,05 * * *';
   const prodTeamInterval = '08 10,2 * * *';
   const prodLeagueInterval = '30 10 * * *';
 

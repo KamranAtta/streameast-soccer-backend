@@ -3,1024 +3,602 @@
     "categoryName": "Streams today",
     "subCategories": [
       {
-        "subCategoryName": "Boxing",
-        "subCategoryImage": "/assets2/images/premier/boxing.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/ufc-294/13769/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:27 GMT",
-            "matchTime": "",
-            "teamA": "UFC 294",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697877528/teamLogos/ufc_logo_bspjcx.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/catterall-vs-linares/18241/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:28 GMT",
-            "matchTime": "",
-            "teamA": "Catterall vs Linares",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/lawal-vs-chamberlain/18242/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:29 GMT",
-            "matchTime": "",
-            "teamA": "Lawal vs Chamberlain",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/rocha-vs-santillan/18240/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:30 GMT",
-            "matchTime": "",
-            "teamA": "Rocha vs Santillan",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "F1",
-        "subCategoryImage": "https://i.ndtvimg.com/i/2017-11/f1-logo_827x510_81511609021.jpg",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/formula-1-united-states-gp-qualifying/18239/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:31 GMT",
-            "matchTime": "",
-            "teamA": "Formula 1 UNITED STATES GP Qualifying",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/formula-1-united-states-gp-final-race/18238/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:32 GMT",
-            "matchTime": "",
-            "teamA": "Formula 1 UNITED STATES GP Final Race",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
         "subCategoryName": "Premier League",
-        "subCategoryImage": "https://streamsportal.com/images/Premier-League.png",
+        "subCategoryImage": "",
         "games": [
           {
-            "sourceLink": "https://hufoot.com/Liverpool-VS-Everton/14622",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:34 GMT",
-            "matchTime": "",
-            "teamA": "Liverpool",
-            "teamB": "Everton",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687088493/teams/tmp-1-1687087769299_fvtcjd.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687108474/teams/tmp-2-1687108472888_fnzdza.webp"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Bournemouth-vs-Wolverhampton-Wanderers/18089",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:35 GMT",
-            "matchTime": "",
-            "teamA": "Bournemouth",
-            "teamB": "Wolverhampton Wanderers",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697882348/teamLogos/Wolverhampton_Wanderers_gzzza3.webp"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Brentford-vs-Burnley/18090",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:36 GMT",
-            "matchTime": "",
-            "teamA": "Brentford",
-            "teamB": "Burnley",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688929495/teams/Brentford-fc_htwvfm.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Manchester-City-vs-Brighton-&-Hove-Albion/18091",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:37 GMT",
-            "matchTime": "",
-            "teamA": "Manchester City",
-            "teamB": "Brighton & Hove Albion",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688554003/teams/manchester-city-logo_wzsmcm.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697882349/teamLogos/Brighton_Hove_Albion_kefsik.webp"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Newcastle-United-vs-Crystal-Palace/18092",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:38 GMT",
-            "matchTime": "",
-            "teamA": "Newcastle United",
-            "teamB": "Crystal Palace",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687104988/teams/tmp-2-1687104985958_a3iaxn.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Nottingham-Forest-vs-Luton-Town/18093",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:39 GMT",
-            "matchTime": "",
-            "teamA": "Nottingham Forest",
-            "teamB": "Luton Town",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1692371799/teams/nottingham-forest-fc_nz7bvk.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Chelsea-VS-Arsenal/14654",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:40 GMT",
-            "matchTime": "",
-            "teamA": "Chelsea",
-            "teamB": "Arsenal",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687104137/teams/tmp-1-1687104135908_enycqa.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687105670/teams/tmp-1-1687090085322_bjkyfy.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/sheffield-united-vs-manchester-united/14579/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:41 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Sheffield United",
-            "teamB": "Manchester United",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1692372049/teams/sheffield-united-fc-logo_gsov54.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569655/teams/Manchester-United-Logo_fwdq43.webp"
+            "sourceLink": "https://totalsportek.pro/game/tottenham-hotspur-vs-fulham/14691/",
+            "streamerLinks": [
+              {
+                "website": "BTS STREAMS ",
+                "websiteLink": "https://headlines.footballstreams.top/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "Super SPORTS FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "LiveonscoreTV ",
+                "websiteLink": "https://sports.footballstreams.top/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "ESPN + FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Footybite Streams ",
+                "websiteLink": "https://headlines.footybite.to/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "SKY SPORTS PREMIER FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "TOP STREAMS ",
+                "websiteLink": "https://sports.chelsealivestream.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "BT SPORTS FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "WEAK STREAMS ",
+                "websiteLink": "https://headlines.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "SKY SPORTS EPL FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Hesgoal ",
+                "websiteLink": "https://sports.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "BT SPORTS ESPN FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Olympic Streams ",
+                "websiteLink": "https://sports2.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "BT SPORTS 3 FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "GIVEME REDDIT ",
+                "websiteLink": "https://sports3.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "NBCSN FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Sports streamer ",
+                "websiteLink": "https://sports4.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "BT SPORTS 2 FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "WORLD STREAMS ",
+                "websiteLink": "https://sports5.reddit-soccerstreams.com/1-tottenham-hotspur-vs-fulham/",
+                "streamer": "SKY SPORTS FOOTBALL F",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "F1STREAMS ",
+                "websiteLink": "http://news.chelsealivestream.com/tottenhamhotspur-vs-fulham",
+                "streamer": "ENGLISH HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "FootballStreams ",
+                "websiteLink": "https://soccerstreaming.footybite.to/Totten-fulham/",
+                "streamer": "SKYSPORTSHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "TopSporter ",
+                "websiteLink": "https://www.sportshub.to/total/sports/2023/premier-league-tottenham-hotspur-vs-fulham-s1/",
+                "streamer": "English - Full HD - ABR",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "ovostreams ",
+                "websiteLink": "http://www.ovostreams.com/total1soccer1.html",
+                "streamer": "SuperSports Premier Lea",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "RainoStream ",
+                "websiteLink": "https://epllive.net/soccer/stream3?moment=223102023&match=Tottenham-Hotspur-vs-Fulham",
+                "streamer": "Soccer Streams",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "sheri007 ",
+                "websiteLink": "https://streambtw.com/iframe/ch1.php",
+                "streamer": "CatchyStream FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Bestreamsports ",
+                "websiteLink": "https://livespor.org/xf929/",
+                "streamer": "USA CHANNEL",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "dubsstreamz.com ",
+                "websiteLink": "http://dubznetwork.com/total/events/tottenham-hotspur-vs-fulham-s1",
+                "streamer": "SKY SPORTS MAIN EVENT H",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "soccermlbstream ",
+                "websiteLink": "https://soccermlbstream.top/uncategorized/tottenham-hotspur-vs-fulham/",
+                "streamer": "ENGLISH HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "AlexSports ",
+                "websiteLink": "https://alexsportz.online/HD/ch-72.php",
+                "streamer": "English Channel",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "decimalnews ",
+                "websiteLink": "https://backfirstwo.com/total/5.php",
+                "streamer": "Soccer Football HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "sritaanya ",
+                "websiteLink": "https://gameshdlive.net/chat/ch5.php",
+                "streamer": "English Channel FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Supertipz ",
+                "websiteLink": "https://rayinfosports.com/2023/10/23/toful54890/",
+                "streamer": "USA NETWORK",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "enjoyhd ",
+                "websiteLink": "https://enjoyhd.online/hd-72.php",
+                "streamer": "English HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "salahstream ",
+                "websiteLink": "https://buzter.xyz/tottenham-hotspur-vs-fulham",
+                "streamer": "SPORT 1 FHD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "techydeals ",
+                "websiteLink": "https://redditsoccerstream.online/totalsportek6/15.php",
+                "streamer": "ENGLISH STREAM HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "freesport ",
+                "websiteLink": "https://freesportstime.com/total/soccer1.php",
+                "streamer": "Super Sports HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "pawastreams ",
+                "websiteLink": "https://pawastreams.info/tottenham-vs-fulham/64151/",
+                "streamer": "OPTUS HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "eplstreams ",
+                "websiteLink": "https://p2pstreams.tv/totalsportek-feed-5/",
+                "streamer": "Live HD Streams",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "footballstream ",
+                "websiteLink": "https://hitsports.pro/ff/tottenham-hotspur.php",
+                "streamer": "Sky Sports Main Event H",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "realstreams ",
+                "websiteLink": "https://fastreams.com/ts-live-5/",
+                "streamer": "HD Crack Streams",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Globalstreams ",
+                "websiteLink": "http://adisports.xyz/ny12/ch3",
+                "streamer": "ADISPORTS",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "streamhd247 ",
+                "websiteLink": "https://streamhd247.online/live-soccer-streaming-22-total.htm",
+                "streamer": "USA Network",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "forlive ",
+                "websiteLink": "http://nizarstream.com/stream/23192",
+                "streamer": "Hub Premier",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "Cyfo Streams ",
+                "websiteLink": "http://www.cyfostreams.com/streams/2021/tottenham-hotspur-vs-fulham-s6/",
+                "streamer": "Sky Sports Premier Leag",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "soccerjumbo ",
+                "websiteLink": "http://sjumbotvs1.me/231023-1/ch-2.html",
+                "streamer": "NFL Game Pass",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "watchlivegames ",
+                "websiteLink": "http://games47.xyz/ov34/tv3",
+                "streamer": "GAMES47",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "RonaloSports ",
+                "websiteLink": "https://7soccer.club/ttt362/1.php",
+                "streamer": "Cr7 Soccer",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "papahdlive ",
+                "websiteLink": "https://papa4k.online/tottenham-hotspur-vs-fulham",
+                "streamer": "SUPERSPORT 1080p",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "socolive.pro ",
+                "websiteLink": "http://2socolive.info/live-football-stream-11.html",
+                "streamer": "Sky",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "All-Sports-HD ",
+                "websiteLink": "https://bein-sports.online/TOT0058/1.php",
+                "streamer": "beiN Sports",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://1.vecdn.pw/28",
+                "streamer": "Canal + Foot HD",
+                "language": "french",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://1.vecdn.pw/31",
+                "streamer": "HUB Premier 1 HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://1.vecdn.pw/4",
+                "streamer": "USA Network HD",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "http://www.buddylive.xyz/p/tottenham-hotspur-vs-fulham.html",
+                "streamer": "dazn canada",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://hdlivestreamer.xyz/t17/1.php",
+                "streamer": "SuperSport",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://beinsportshd.online/to51/1.php",
+                "streamer": "Live Stream",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "http://www.btvsports.click/stream2",
+                "streamer": "USA Network",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://tnt-sports.xyz/TON0016/1.php",
+                "streamer": "TNT SPORTS Hd 1",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://www.sports-stream.pro/totaltek.php?id=35",
+                "streamer": "Sports Stream",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "http://masterpro.club/tottenham-hotspur-vs-fulham",
+                "streamer": "ESPN PLUS",
+                "language": "english",
+                "mobileSupport": "yes"
+              },
+              {
+                "website": "",
+                "websiteLink": "https://apkship.xyz/2023/10/21/channel-130/",
+                "streamer": "Sky Sports Premier Leag",
+                "language": "english",
+                "mobileSupport": "yes"
+              }
+            ],
+            "matchDate": "Mon, 23 Oct 2023 19:48:12 GMT",
+            "matchTime": "12:48:16 AMUTC",
+            "teamA": "Tottenham Hotspur",
+            "teamB": "Fulham",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1687105860/teams/tmp-2-1687089759241_lv9s0r.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "Serie A",
-        "subCategoryImage": "https://streamsportal.com/images/serie.png",
         "games": [
           {
-            "sourceLink": "https://hufoot.com/Hellas-Verona-vs-Napoli/18098",
+            "sourceLink": "https://totalsportek.pro/game/udinese-vs-lecce/18228/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:42 GMT",
-            "matchTime": "",
-            "teamA": "Hellas Verona",
-            "teamB": "Napoli",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569068/teams/Napoli-Logo_lewoh9.webp"
+            "matchDate": "Mon, 23 Oct 2023 19:48:16 GMT",
+            "matchTime": "16:30 PM UTC",
+            "teamA": "Udinese",
+            "teamB": "Lecce",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
-            "sourceLink": "https://hufoot.com/Torino-vs-Internazionale/18099",
+            "sourceLink": "https://totalsportek.pro/game/fiorentina-vs-empoli/18229/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:43 GMT",
-            "matchTime": "",
-            "teamA": "Torino",
-            "teamB": "Internazionale",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568622/teams/Internazionale-Logo_b1r1se.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/sassuolo-vs-lazio/18100/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:44 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Sassuolo",
-            "teamB": "Lazio",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "Ligue 1",
-        "subCategoryImage": "https://streamsportal.com/images/league1.png",
-        "games": [
-          {
-            "sourceLink": "https://hufoot.com/PSG-VS-Strasbourg/14811",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:46 GMT",
-            "matchTime": "",
-            "teamA": "PSG",
-            "teamB": "Strasbourg",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568744/teams/PSG-Logo_pqj5lq.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/nice-vs-olympique-marseille/18107/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:47 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Nice",
-            "teamB": "Olympique Marseille",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569377/teams/Olympique-Marseille-Logo_thgjhk.webp"
+            "matchDate": "Mon, 23 Oct 2023 19:48:17 GMT",
+            "matchTime": "12:48:19 AMUTC",
+            "teamA": "Fiorentina",
+            "teamB": "Empoli",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "La Liga",
-        "subCategoryImage": "https://streamsportal.com/images/laligahd.png",
         "games": [
           {
-            "sourceLink": "https://hufoot.com/Real-Sociedad-vs-Mallorca/18094",
+            "sourceLink": "https://totalsportek.pro/game/valencia-vs-cadiz/18227/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:48 GMT",
-            "matchTime": "",
-            "teamA": "Real Sociedad",
-            "teamB": "Mallorca",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Getafe-vs-Real-Betis/18095",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:49 GMT",
-            "matchTime": "",
-            "teamA": "Getafe",
-            "teamB": "Real Betis",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1689336766/teams/Getafe_ob6024.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Sevilla-vs-Real-Madrid/18096",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:50 GMT",
-            "matchTime": "",
-            "teamA": "Sevilla",
-            "teamB": "Real Madrid",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569542/teams/Sevilla-Logo_hqqn05.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568105/teams/Real-Madrid-Logo_btfgqv.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/celta-de-vigo-vs-atlético-madrid/18097/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:51 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Celta de Vigo",
-            "teamB": "Atlético Madrid",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "Bundesliga",
-        "subCategoryImage": "https://streamsportal.com/images/bundesligahd.png",
-        "games": [
-          {
-            "sourceLink": "https://hufoot.com/Union-Berlin-vs-Stuttgart/18101",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:52 GMT",
-            "matchTime": "",
-            "teamA": "Union Berlin",
-            "teamB": "Stuttgart",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1689338472/teams/Union_Berlin_edpqky.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Freiburg-vs-Bochum/18102",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:52 GMT",
-            "matchTime": "",
-            "teamA": "Freiburg",
-            "teamB": "Bochum",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Wolfsburg-vs-Bayer-Leverkusen/18103",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:53 GMT",
-            "matchTime": "",
-            "teamA": "Wolfsburg",
-            "teamB": "Bayer Leverkusen",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688569451/teams/Bayer-Leverkusen-Logo_o7kn02.webp"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Hoffenheim-vs-Eintracht-Frankfurt/18104",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:57 GMT",
-            "matchTime": "",
-            "teamA": "Hoffenheim",
-            "teamB": "Eintracht Frankfurt",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Darmstadt-98-vs-RB-Leipzig/18105",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:00:58 GMT",
-            "matchTime": "",
-            "teamA": "Darmstadt 98",
-            "teamB": "RB Leipzig",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://hufoot.com/Mainz-05-vs-Bayern-Munchen/18106",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:00 GMT",
-            "matchTime": "",
-            "teamA": "Mainz 05",
-            "teamB": "Bayern Munchen",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1689336626/teams/Mainz_05_jcepd8.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881181/teamLogos/Bayern_Munchen_logo_uydtu3.webp"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "Scottish Premiership",
-        "subCategoryImage": "https://totalsportek.pro/images/Scottish_Premiership.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/kilmarnock-vs-livingston/18128/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:01 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Kilmarnock",
-            "teamB": "Livingston",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/rangers-vs-hibernian/18129/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:02 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Rangers",
-            "teamB": "Hibernian",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/ross-county-vs-st-mirren/18130/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:03 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Ross County",
-            "teamB": "St Mirren",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/aberdeen-vs-dundee/18132/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:04 GMT",
-            "matchTime": "17:00 PM UTC",
-            "teamA": "Aberdeen",
-            "teamB": "Dundee",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "England - Championship",
-        "subCategoryImage": "data:image/png;base64,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",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/preston-north-end-vs-millwall/18111/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:05 GMT",
-            "matchTime": "11:30 AM UTC",
-            "teamA": "Preston North End",
-            "teamB": "Millwall",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/blackburn-rovers-vs-cardiff-city/18112/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:06 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Blackburn Rovers",
-            "teamB": "Cardiff City",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/bristol-city-vs-coventry-city/18113/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:07 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Bristol City",
-            "teamB": "Coventry City",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/huddersfield-town-vs-queens-park-rangers/18114/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:09 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Huddersfield Town",
-            "teamB": "Queens Park Rangers",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/hull-city-vs-southampton/18115/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:10 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Hull City",
-            "teamB": "Southampton",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1689338744/teams/Southampton_t11hig.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/middlesbrough-vs-birmingham-city/18116/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:11 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Middlesbrough",
-            "teamB": "Birmingham City",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/norwich-city-vs-leeds-united/18117/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:12 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Norwich City",
-            "teamB": "Leeds United",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1689338880/teams/Leeds_United_uihfui.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/stoke-city-vs-sunderland/18118/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:13 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Stoke City",
-            "teamB": "Sunderland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/swansea-city-vs-leicester-city/18119/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:15 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Swansea City",
-            "teamB": "Leicester City",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688568989/teams/Leicester-City-Logo_rywmf6.webp"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/watford-vs-sheffield-wednesday/18120/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:16 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "Watford",
-            "teamB": "Sheffield Wednesday",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/west-bromwich-albion-vs-plymouth-argyle/18121/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:17 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "West Bromwich Albion",
-            "teamB": "Plymouth Argyle",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "matchDate": "Mon, 23 Oct 2023 19:48:19 GMT",
+            "matchTime": "12:48:20 AMUTC",
+            "teamA": "Valencia",
+            "teamB": "Cadiz",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "Turkish Super Lig",
-        "subCategoryImage": "https://streamsportal.com/images/turkishsuperlig.png\n",
         "games": [
           {
-            "sourceLink": "https://totalsportek.pro/game/kayserispor-vs-rizespor/18085/",
+            "sourceLink": "https://totalsportek.pro/game/fatih-karagumruk-vs-adana-demirspor/18225/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:18 GMT",
-            "matchTime": "10:30 AM UTC",
-            "teamA": "Kayserispor",
-            "teamB": "Rizespor",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/gaziantep-vs-antalyaspor/18086/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:22 GMT",
-            "matchTime": "13:00 PM UTC",
-            "teamA": "Gaziantep",
-            "teamB": "Antalyaspor",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/konyaspor-vs-pendikspor/18087/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:23 GMT",
-            "matchTime": "13:00 PM UTC",
-            "teamA": "Konyaspor",
-            "teamB": "Pendikspor",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/galatasaray-vs-besiktas/18088/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:24 GMT",
-            "matchTime": "16:00 PM UTC",
-            "teamA": "Galatasaray",
-            "teamB": "Besiktas",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/samsunspor-vs-istanbul-basaksehir/18135/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:25 GMT",
-            "matchTime": "16:00 PM UTC",
-            "teamA": "Samsunspor",
-            "teamB": "Istanbul Basaksehir",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "MLS",
-        "subCategoryImage": "https://footybite.to/images/mls.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/charlotte-vs-inter-miami/18154/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:26 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Charlotte",
-            "teamB": "Inter Miami",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/cincinnati-vs-atlanta-united/18155/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:27 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Cincinnati",
-            "teamB": "Atlanta United",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/columbus-crew-vs-cf-montreal/18156/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:28 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Columbus Crew",
-            "teamB": "CF Montreal",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/nashville-sc-vs-new-york-rb/18157/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:29 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Nashville SC",
-            "teamB": "New York RB",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/new-england-vs-philadelphia-union/18158/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:30 GMT",
-            "matchTime": "LIVE",
-            "teamA": "New England",
-            "teamB": "Philadelphia Union",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/new-york-city-vs-chicago-fire/18159/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:32 GMT",
-            "matchTime": "LIVE",
-            "teamA": "New York City",
-            "teamB": "Chicago Fire",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/toronto-fc-vs-orlando-city-sc/18160/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:32 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Toronto FC",
-            "teamB": "Orlando City SC",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/colorado-rapids-vs-real-salt-lake/18161/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:34 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "Colorado Rapids",
-            "teamB": "Real Salt Lake",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/sporting-kc-vs-minnesota-united/18162/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:35 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "Sporting KC",
-            "teamB": "Minnesota United",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/la-galaxy-vs-dallas/18163/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:36 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "LA Galaxy",
-            "teamB": "Dallas",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/portland-timbers-vs-houston-dynamo/18164/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:37 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "Portland Timbers",
-            "teamB": "Houston Dynamo",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/sj-earthquakes-vs-austin/18165/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:38 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "SJ Earthquakes",
-            "teamB": "Austin",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/st-louis-city-vs-seattle-sounders-fc/18166/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:39 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "St Louis City",
-            "teamB": "Seattle Sounders FC",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/vancouver-whitecaps-vs-los-angeles-fc/18167/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:40 GMT",
-            "matchTime": "21:00 PM UTC",
-            "teamA": "Vancouver Whitecaps",
-            "teamB": "Los Angeles FC",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "Brazil Brasileirao",
-        "subCategoryImage": "https://footybite.to/images/Brazil Brasileirao.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/panaitolikos-vs-volos-nfc/18122/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:41 GMT",
-            "matchTime": "14:30 PM UTC",
-            "teamA": "Panaitolikos",
-            "teamB": "Volos NFC",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/panserraikos-vs-aris/18123/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:42 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:20 GMT",
             "matchTime": "17:00 PM UTC",
-            "teamA": "Panserraikos",
-            "teamB": "Aris",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamA": "Fatih Karagumruk",
+            "teamB": "Adana Demirspor",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
-            "sourceLink": "https://totalsportek.pro/game/bahia-vs-fortaleza/18168/",
+            "sourceLink": "https://totalsportek.pro/game/trabzonspor-vs-alanyaspor/18226/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:44 GMT",
-            "matchTime": "21:30 PM UTC",
-            "teamA": "Bahia",
-            "teamB": "Fortaleza",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/cuiaba-vs-goias/18169/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:45 GMT",
-            "matchTime": "21:30 PM UTC",
-            "teamA": "Cuiaba",
-            "teamB": "Goias",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/sao-paulo-vs-gremio/18170/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:46 GMT",
-            "matchTime": "21:30 PM UTC",
-            "teamA": "Sao Paulo",
-            "teamB": "Gremio",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/botafogo-vs-athletico-pr/18171/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:47 GMT",
-            "matchTime": "21:30 PM UTC",
-            "teamA": "Botafogo",
-            "teamB": "Athletico PR",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "Saudi Pro League",
-        "subCategoryImage": "https://www.kickalgor.com/wp-content/uploads/2018/05/Saudi_Professional_League_Logo.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/st-johnstone-vs-motherwell/18131/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:48 GMT",
-            "matchTime": "14:00 PM UTC",
-            "teamA": "St Johnstone",
-            "teamB": "Motherwell",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/al-hazm-vs-al-raed/18124/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:49 GMT",
-            "matchTime": "15:00 PM UTC",
-            "teamA": "Al Hazm",
-            "teamB": "Al Raed",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/al-nassr-vs-dhamk/18125/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:50 GMT",
-            "matchTime": "15:00 PM UTC",
-            "teamA": "Al Nassr",
-            "teamB": "Dhamk",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/al-ahli-vs-al-wahda/18126/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:52 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Al Ahli",
-            "teamB": "Al Wahda",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/al-shabab-vs-al-taee/18127/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:52 GMT",
-            "matchTime": "LIVE",
-            "teamA": "Al Shabab",
-            "teamB": "Al Taee",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "matchDate": "Mon, 23 Oct 2023 19:48:22 GMT",
+            "matchTime": "17:00 PM UTC",
+            "teamA": "Trabzonspor",
+            "teamB": "Alanyaspor",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "Argentine Primera Division",
-        "subCategoryImage": "/assets2/images/premier/prof.jpg",
+        "subCategoryImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
         "games": [
           {
-            "sourceLink": "https://totalsportek.pro/game/huracan-vs-instituto/18108/",
+            "sourceLink": "https://totalsportek.pro/game/estudiantes-vs-sarmiento/18302/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:53 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:23 GMT",
             "matchTime": "22:00 PM UTC",
-            "teamA": "Huracan",
-            "teamB": "Instituto",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamA": "Estudiantes",
+            "teamB": "Sarmiento",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
-            "sourceLink": "https://totalsportek.pro/game/talleres-vs-arsenal-fc/18109/",
+            "sourceLink": "https://totalsportek.pro/game/velez-sarsfield-vs-banfield/18303/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:54 GMT",
-            "matchTime": "22:00 PM UTC",
-            "teamA": "Talleres",
-            "teamB": "Arsenal FC",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
+            "matchDate": "Mon, 23 Oct 2023 19:48:25 GMT",
+            "matchTime": "23:00 PM UTC",
+            "teamA": "Velez Sarsfield",
+            "teamB": "Banfield",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
+          }
+        ]
+      },
+      {
+        "subCategoryName": "AFC Champions League",
+        "subCategoryImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+        "games": [
           {
-            "sourceLink": "https://totalsportek.pro/game/boca-juniors-vs-union-santa-fe/18110/",
+            "sourceLink": "https://totalsportek.pro/game/al-hilal-vs-mumbai-city/18230/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:56 GMT",
-            "matchTime": "23:30 PM UTC",
-            "teamA": "Boca Juniors",
-            "teamB": "Union Santa Fe",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "matchDate": "Mon, 23 Oct 2023 19:48:26 GMT",
+            "matchTime": "12:48:27 AMUTC",
+            "teamA": "Al Hilal",
+            "teamB": "Mumbai City",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "tennis",
-        "subCategoryImage": "/assets2/images/premier/timg.png",
+        "subCategoryImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
         "games": [
           {
             "sourceLink": "https://totalsportek.pro/game/kinoshita-group-vs--japan-open-tennis-championships/15532/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:56 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:27 GMT",
             "matchTime": "",
             "teamA": "Kinoshita Group vs Japan Open Tennis Championships",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/stockholm-open-vs-open-tennis/15533/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:57 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:29 GMT",
             "matchTime": "",
             "teamA": "Stockholm Open vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/european-open-vs-tennis/15534/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:01:59 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:30 GMT",
             "matchTime": "",
             "teamA": "European Open vs Tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/erste-bank-open-vs-open-tennis/15535/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:00 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:32 GMT",
             "matchTime": "",
             "teamA": "Erste Bank Open vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/swiss-indoors-basel-vs-open-tennis/15536/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:01 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:33 GMT",
             "matchTime": "",
             "teamA": "Swiss Indoors Basel vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          }
-        ]
-      },
-      {
-        "subCategoryName": "MOTOGP",
-        "subCategoryImage": "https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png",
-        "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/motogp-australian-motorcycle-gp-qualifying/18237/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:02 GMT",
-            "matchTime": "",
-            "teamA": "MotoGP AUSTRALIAN MOTORCYCLE GP Qualifying",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/motogp-australian-motorcycle-gp-final-race/18236/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:04 GMT",
-            "matchTime": "",
-            "teamA": "MotoGP AUSTRALIAN MOTORCYCLE GP Final Race",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       },
       {
         "subCategoryName": "Cricket",
-        "subCategoryImage": "/assets2/images/premier/cricket_PNG41.png",
+        "subCategoryImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
         "games": [
           {
             "sourceLink": "https://totalsportek.pro/game/auckland-vs-central-districts/18071/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:05 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:34 GMT",
             "matchTime": "09:30 AM UTC",
             "teamA": "Auckland",
             "teamB": "Central Districts",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/northern-knights-vs-otago/18072/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:06 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:36 GMT",
             "matchTime": "21:30 PM UTC",
             "teamA": "Northern Knights",
             "teamB": "Otago",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/wellington-vs-canterbury/18073/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:07 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:37 GMT",
             "matchTime": "21:30 PM UTC",
             "teamA": "Wellington",
             "teamB": "Canterbury",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
-            "sourceLink": "https://totalsportek.pro/game/netherlands-vs-sri-lanka/18083/",
+            "sourceLink": "https://totalsportek.pro/game/nepal-vs-united-arab-emirates/18234/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:08 GMT",
-            "matchTime": "05:00 AM UTC",
-            "teamA": "Netherlands",
-            "teamB": "Sri Lanka",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/nepal-vs-hong-kong/18080/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:09 GMT",
-            "matchTime": "05:30 AM UTC",
+            "matchDate": "Mon, 23 Oct 2023 19:48:38 GMT",
+            "matchTime": "05:15 AM UTC",
             "teamA": "Nepal",
-            "teamB": "Hong Kong",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamB": "United Arab Emirates",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
-            "sourceLink": "https://totalsportek.pro/game/adelaide-strikers-vs-melbourne-stars/18082/",
+            "sourceLink": "https://totalsportek.pro/game/ireland-vs-scotland/18235/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:10 GMT",
-            "matchTime": "08:10 AM UTC",
-            "teamA": "Adelaide Strikers",
-            "teamB": "Melbourne Stars",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/england-vs-south-africa/18084/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:11 GMT",
-            "matchTime": "08:30 AM UTC",
-            "teamA": "England",
-            "teamB": "South Africa",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/ireland-vs-scotland/18081/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:12 GMT",
-            "matchTime": "08:45 AM UTC",
+            "matchDate": "Mon, 23 Oct 2023 19:48:40 GMT",
+            "matchTime": "12:00 PM UTC",
             "teamA": "Ireland",
             "teamB": "Scotland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           }
         ]
       }
@@ -1031,347 +609,227 @@
     "subCategories": [
       {
         "subCategoryName": "Cricket",
-        "subCategoryImage": "/assets2/images/premier/cricket_PNG41.png",
+        "subCategoryImage": "",
         "games": [
           {
             "sourceLink": "https://totalsportek.pro/game/auckland-vs-central-districts/18071/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:16 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:45 GMT",
             "matchTime": "09:30 AM UTC",
             "teamA": "Auckland",
             "teamB": "Central Districts",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/northern-knights-vs-otago/18072/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:17 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:46 GMT",
             "matchTime": "21:30 PM UTC",
             "teamA": "Northern Knights",
             "teamB": "Otago",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/wellington-vs-canterbury/18073/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:18 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:47 GMT",
             "matchTime": "21:30 PM UTC",
             "teamA": "Wellington",
             "teamB": "Canterbury",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/netherlands-vs-sri-lanka/18083/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:19 GMT",
-            "matchTime": "05:00 AM UTC",
-            "teamA": "Netherlands",
-            "teamB": "Sri Lanka",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/nepal-vs-hong-kong/18080/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:21 GMT",
-            "matchTime": "05:30 AM UTC",
-            "teamA": "Nepal",
-            "teamB": "Hong Kong",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/adelaide-strikers-vs-melbourne-stars/18082/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:22 GMT",
-            "matchTime": "08:10 AM UTC",
-            "teamA": "Adelaide Strikers",
-            "teamB": "Melbourne Stars",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/england-vs-south-africa/18084/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:26 GMT",
-            "matchTime": "08:30 AM UTC",
-            "teamA": "England",
-            "teamB": "South Africa",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/ireland-vs-scotland/18081/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:28 GMT",
-            "matchTime": "08:45 AM UTC",
-            "teamA": "Ireland",
-            "teamB": "Scotland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/perth-scorchers-vs-brisbane-heat/18187/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:29 GMT",
-            "matchTime": "02:40 AM UTC",
-            "teamA": "Perth Scorchers",
-            "teamB": "Brisbane Heat",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/hong-kong-vs-united-arab-emirates/18182/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:30 GMT",
-            "matchTime": "05:15 AM UTC",
-            "teamA": "Hong Kong",
-            "teamB": "United Arab Emirates",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/kwazulu-natal-inland-vs-dolphins/18183/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:31 GMT",
-            "matchTime": "07:30 AM UTC",
-            "teamA": "KwaZulu-Natal Inland",
-            "teamB": "Dolphins",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/lions-vs-titans/18186/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:33 GMT",
-            "matchTime": "08:00 AM UTC",
-            "teamA": "Lions",
-            "teamB": "Titans",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/warriors-vs-north-west/18185/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:34 GMT",
-            "matchTime": "08:00 AM UTC",
-            "teamA": "Warriors",
-            "teamB": "North West",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/western-province-vs-boland/18184/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:35 GMT",
-            "matchTime": "08:00 AM UTC",
-            "teamA": "Western Province",
-            "teamB": "Boland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/india-vs-new-zealand/18188/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:36 GMT",
-            "matchTime": "08:30 AM UTC",
-            "teamA": "India",
-            "teamB": "New Zealand",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/nepal-vs-united-arab-emirates/18234/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:37 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:49 GMT",
             "matchTime": "05:15 AM UTC",
             "teamA": "Nepal",
             "teamB": "United Arab Emirates",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/ireland-vs-scotland/18235/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:38 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:50 GMT",
             "matchTime": "12:00 PM UTC",
             "teamA": "Ireland",
             "teamB": "Scotland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/south-africa-vs-bangladesh/18293/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:39 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:51 GMT",
             "matchTime": "08:30 AM UTC",
             "teamA": "South Africa",
             "teamB": "Bangladesh",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/ireland-vs-scotland/18292/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:40 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:53 GMT",
             "matchTime": "12:00 PM UTC",
             "teamA": "Ireland",
             "teamB": "Scotland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/hong-kong-vs-united-arab-emirates/18334/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:41 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:54 GMT",
             "matchTime": "07:00 AM UTC",
             "teamA": "Hong Kong",
             "teamB": "United Arab Emirates",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/australia-vs-netherlands/18337/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:43 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:56 GMT",
             "matchTime": "08:30 AM UTC",
             "teamA": "Australia",
             "teamB": "Netherlands",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/bangladesh-vs-pakistan/18335/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:44 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:48:57 GMT",
             "matchTime": "10:30 AM UTC",
             "teamA": "Bangladesh",
             "teamB": "Pakistan",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/namibia-vs-zimbabwe/18336/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:46 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:02 GMT",
             "matchTime": "12:00 PM UTC",
             "teamA": "Namibia",
             "teamB": "Zimbabwe",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/south-australia-vs-western-australia/18340/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:47 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:04 GMT",
             "matchTime": "23:00 PM UTC",
             "teamA": "South Australia",
             "teamB": "Western Australia",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/tasmania-vs-queensland/18338/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:49 GMT",
-            "matchTime": "23:30 PM UTC",
-            "teamA": "Tasmania",
-            "teamB": "Queensland",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/victoria-vs-new-south-wales/18339/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:51 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:05 GMT",
             "matchTime": "23:30 PM UTC",
             "teamA": "Victoria",
             "teamB": "New South Wales",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
+          },
+          {
+            "sourceLink": "https://totalsportek.pro/game/tasmania-vs-queensland/18338/",
+            "streamerLinks": [],
+            "matchDate": "Mon, 23 Oct 2023 19:49:07 GMT",
+            "matchTime": "23:30 PM UTC",
+            "teamA": "Tasmania",
+            "teamB": "Queensland",
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/england-vs-sri-lanka/18341/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:53 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:08 GMT",
             "matchTime": "08:30 AM UTC",
             "teamA": "England",
             "teamB": "Sri Lanka",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/india-vs-australia-1st-t20/15876/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:56 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:09 GMT",
             "matchTime": "13:30 PM UTC",
             "teamA": "India",
             "teamB": "Australia 1st T20",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/india-vs-australia-2nd-t20/15877/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:02:59 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:11 GMT",
             "matchTime": "13:30 PM UTC",
             "teamA": "India",
             "teamB": "Australia 2nd T20",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/bangladesh-vs-new-zealand-1st-test/15857/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:03 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:12 GMT",
             "matchTime": "08:30 AM UTC",
             "teamA": "Bangladesh",
             "teamB": "New Zealand 1st Test",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/india-vs-australia-3rd-t20/15878/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:04 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:13 GMT",
             "matchTime": "13:30 PM UTC",
             "teamA": "India",
             "teamB": "Australia 3rd T20",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/india-vs-australia-4th-t20/15879/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:08 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:15 GMT",
             "matchTime": "13:30 PM UTC",
             "teamA": "India",
             "teamB": "Australia 4th T20",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/india-vs-australia-5th-t20/15880/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:11 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:16 GMT",
             "matchTime": "13:30 PM UTC",
             "teamA": "India",
             "teamB": "Australia 5th T20",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/bangladesh-vs-new-zealand-2nd-test/15858/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:13 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:17 GMT",
             "matchTime": "03:30 AM UTC",
             "teamA": "Bangladesh",
             "teamB": "New Zealand 2nd Test",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp"
           }
         ]
       }
@@ -1382,87 +840,47 @@
     "subCategories": [
       {
         "subCategoryName": "Boxing",
-        "subCategoryImage": "/assets2/images/premier/boxing.png",
+        "subCategoryImage": "",
         "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/ufc-294/13769/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:25 GMT",
-            "matchTime": "",
-            "teamA": "UFC 294",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697877528/teamLogos/ufc_logo_bspjcx.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/catterall-vs-linares/18241/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:27 GMT",
-            "matchTime": "",
-            "teamA": "Catterall vs Linares",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/lawal-vs-chamberlain/18242/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:30 GMT",
-            "matchTime": "",
-            "teamA": "Lawal vs Chamberlain",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/rocha-vs-santillan/18240/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:33 GMT",
-            "matchTime": "",
-            "teamA": "Rocha vs Santillan",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
           {
             "sourceLink": "https://totalsportek.pro/game/gonzalez-vs-zapata/18243/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:35 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:22 GMT",
             "matchTime": "",
             "teamA": "Gonzalez vs Zapata",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/serrano-vs-ramos/18244/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:36 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:23 GMT",
             "matchTime": "",
             "teamA": "Serrano vs Ramos",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/tyson-fury-vs-francis-ngannou/13768/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:38 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:25 GMT",
             "matchTime": "",
             "teamA": "Tyson Fury vs Francis Ngannou",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/ufc-295/13770/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:39 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:26 GMT",
             "matchTime": "",
             "teamA": "UFC 295",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697877528/teamLogos/ufc_logo_bspjcx.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg"
           }
         ]
       }
@@ -1473,67 +891,47 @@
     "subCategories": [
       {
         "subCategoryName": "F1",
-        "subCategoryImage": "https://i.ndtvimg.com/i/2017-11/f1-logo_827x510_81511609021.jpg",
+        "subCategoryImage": "",
         "games": [
-          {
-            "sourceLink": "https://totalsportek.pro/game/formula-1-united-states-gp-qualifying/18239/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:43 GMT",
-            "matchTime": "",
-            "teamA": "Formula 1 UNITED STATES GP Qualifying",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
-          {
-            "sourceLink": "https://totalsportek.pro/game/formula-1-united-states-gp-final-race/18238/",
-            "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:44 GMT",
-            "matchTime": "",
-            "teamA": "Formula 1 UNITED STATES GP Final Race",
-            "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
-          },
           {
             "sourceLink": "https://totalsportek.pro/game/formula-1-mexican-gp-practice-race/16464/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:46 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:32 GMT",
             "matchTime": "",
             "teamA": "Formula 1 MEXICAN GP Practice Race",
             "teamB": "",
             "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/formula-1-brazilian-gp-practice-race/16471/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:48 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:33 GMT",
             "matchTime": "",
             "teamA": "Formula 1 BRAZILIAN GP Practice Race",
             "teamB": "",
             "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/formula-1-las-vegas-gp-practice-race/16472/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:50 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:35 GMT",
             "matchTime": "",
             "teamA": "Formula 1 LAS VEGAS GP Practice Race",
             "teamB": "",
             "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/formula-1-abu-dhabi-gp-practice-race/16473/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:52 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:36 GMT",
             "matchTime": "",
             "teamA": "Formula 1 ABU DHABI GP Practice Race",
             "teamB": "",
             "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp"
           }
         ]
       }
@@ -1544,117 +942,117 @@
     "subCategories": [
       {
         "subCategoryName": "tennis",
-        "subCategoryImage": "/assets2/images/premier/timg.png",
+        "subCategoryImage": "",
         "games": [
           {
             "sourceLink": "https://totalsportek.pro/game/kinoshita-group-vs--japan-open-tennis-championships/15532/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:03:58 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:41 GMT",
             "matchTime": "",
             "teamA": "Kinoshita Group vs Japan Open Tennis Championships",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/stockholm-open-vs-open-tennis/15533/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:00 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:42 GMT",
             "matchTime": "",
             "teamA": "Stockholm Open vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/european-open-vs-tennis/15534/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:02 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:44 GMT",
             "matchTime": "",
             "teamA": "European Open vs Tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/erste-bank-open-vs-open-tennis/15535/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:04 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:45 GMT",
             "matchTime": "",
             "teamA": "Erste Bank Open vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/swiss-indoors-basel-vs-open-tennis/15536/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:06 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:47 GMT",
             "matchTime": "",
             "teamA": "Swiss Indoors Basel vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/rolex-paris-masters-vs-open-tennis/15537/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:07 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:49 GMT",
             "matchTime": "",
             "teamA": "Rolex Paris Masters vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/tel-aviv-vs--watergen-open/15539/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:10 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:51 GMT",
             "matchTime": "",
             "teamA": "Tel Aviv vs Watergen Open",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/moselle-open-vs-open-tennis/15538/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:11 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:52 GMT",
             "matchTime": "",
             "teamA": "Moselle Open vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/intesa-sanpaolo-vs-next-gen-atp-finalsvs/15541/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:13 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:53 GMT",
             "matchTime": "",
             "teamA": "Intesa Sanpaolo vs Next Gen ATP Finalsvs",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/nitto-atp-finals-vs-open-tennis/15540/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:15 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:55 GMT",
             "matchTime": "",
             "teamA": "Nitto ATP Finals vs Open tennis",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           },
           {
             "sourceLink": "https://totalsportek.pro/game/tata-open-vs-maharashtra/15542/",
             "streamerLinks": [],
-            "matchDate": "Sat, 21 Oct 2023 20:04:16 GMT",
+            "matchDate": "Mon, 23 Oct 2023 19:49:56 GMT",
             "matchTime": "",
             "teamA": "Tata Open vs Maharashtra",
             "teamB": "",
-            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png",
-            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png"
+            "teamAImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp",
+            "teamBImage": "https://res.cloudinary.com/dp7udccyf/image/upload/v1698082102/teamLogos/soccer_logo_womr9m.webp"
           }
         ]
       }

@@ -11,6 +11,7 @@ MongoDB();
 Mongoose();
 
 const Team = mongoose.model('Team');
+const League = mongoose.model('League');
 
 let data = [];
 
@@ -74,7 +75,7 @@ const getImage = async (teamName) => {
   }else if (teamName.includes("Manchester City")){
     return "https://res.cloudinary.com/dp7udccyf/image/upload/v1697882881/teamLogos/ManCity_logo_cn6j5b.webp"
   }else {
-    return "https://res.cloudinary.com/dp7udccyf/image/upload/v1688552621/sports-logo_xaotub.png";
+    return "https://res.cloudinary.com/dp7udccyf/image/upload/v1698084766/teamLogos/soccer_oiowlt.webp";
   }
 }
 
@@ -91,6 +92,15 @@ async function writeJsonToFile(data, filePath) {
 
 const scrapeSports = async () => {
   const dbTeams = await Team.find({});
+  const otherCats = ['F1', 'Tennis', 'Boxing', 'Cricket']
+  const subCatLogos = {
+    F1: 'https://res.cloudinary.com/dp7udccyf/image/upload/v1697881762/teamLogos/f1-logo_bx4i5v.webp',
+    Tennis: 'https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/tennis_logo_lov6vr.webp',
+    Boxing: 'https://res.cloudinary.com/dp7udccyf/image/upload/v1697879641/teamLogos/boxing-logo_polxhx.jpg',
+    Cricket: 'https://res.cloudinary.com/dp7udccyf/image/upload/v1698082101/teamLogos/cricket_logo_cdhdjy.webp',
+    Soccer: 'https://res.cloudinary.com/dp7udccyf/image/upload/v1698084766/teamLogos/soccer_oiowlt.webp'
+  }; 
+  const dbLeagues = await League.find({});
 
   const apiURL = "https://totalsportek.pro/";
 
@@ -136,7 +146,7 @@ const scrapeSports = async () => {
       const subCategory = subCategories[i];
       if($_(subCategory).is('div')){
         subCategoryName = $(subCategory).find('div span').first().text();
-        subCategoryImage = $(subCategory).find('img').attr('src');
+        // subCategoryImage = $(subCategory).find('img').attr('src');
         console.log('Sub Cat Name', subCategoryName);
         if(subCategoryName){
           const hasObjectWithName = subCats.some(obj => obj.subCategoryName === subCategoryName);
@@ -161,24 +171,46 @@ const scrapeSports = async () => {
         const matchTimeHtml = mt.getBody('utf8');
     
         const $__ = cheerio.load(matchTimeHtml);
-        const matchTime = $__('div[id="timer"]').text();
+        let matchTime = $__('div[id="timer"]').text();
+
+        if(matchTime.trim() === 'LIVE'){
+          const now = new Date();
+          const timeOptions = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true };
+          matchTime = now.toLocaleTimeString('en-US', timeOptions) + ' UTC';
+        }
 
         const teams = $(subCategory).find('div.row.my-auto');
         const teamImages = $(subCategory).find('div.row.my-auto div.col-1.my-auto img');
         const teamA = $(teams[0]).text();
         const teamB = $(teams[1]).text();
 
-        const teamAOnj = dbTeams.find(team => team.teamName === teamA);
-        const teamBOnj = dbTeams.find(team => team.teamName === teamB);
+        let imageA = '';
+        let imageB = '';
 
-        let imageA = teamAOnj?.teamImage;
-        let imageB = teamBOnj?.teamImage;
+        if(otherCats.includes(subCategoryName)){
+          subCategoryImage = subCatLogos[subCategoryName];
+          imageA = subCategoryImage;
+          imageB = subCategoryImage;
+        }else {
+          const leagueObj = dbLeagues.find(league => league.leagueName === subCategoryName);
+          if(leagueObj) {
+            subCategoryImage = leagueObj?.subCategoryImage;
+          }else {
+            subCategoryImage = subCatLogos.Soccer;
+          }
 
-        if(!imageA){
-          imageA = await getImage(teamA);
-        }
-        if(!imageB){
-          imageB = await getImage(teamB);
+          const teamAOnj = dbTeams.find(team => team.teamName === teamA);
+          const teamBOnj = dbTeams.find(team => team.teamName === teamB);
+
+          imageA = teamAOnj?.teamImage;
+          imageB = teamBOnj?.teamImage;
+
+          if(!imageA){
+            imageA = await getImage(teamA);
+          }
+          if(!imageB){
+            imageB = await getImage(teamB);
+          }
         }
 
         const teamAImage = imageA ??  $(teamImages[0]).attr('src');
